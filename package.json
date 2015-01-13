@@ -1,0 +1,16 @@
+{
+"name": "Resume",
+"version": "0.0.0",
+"description": "Hannes Sachsenhofer resume",
+"main": "app.js",
+"author": {
+"name": "saxx",
+"email": ""
+},
+"scripts" : {
+"test": "node ./node_modules/resume-cli/index.js export index -f html"
+},
+"dependencies": {
+"resume-cli": "^0.3.10"
+}
+}

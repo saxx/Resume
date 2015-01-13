@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "name": "Hannes Sachsenhofer",
+    "label": "Software Engineer",
+    "picture": "https://www.erecruiter.net/wp-content/uploads/2014/07/sachsenhofer_2-160x160.png",
+    "email": "hannes@sachsenhofer.com",
+    "summary": "",
+    "location": {
+      "city": "Linz",
+      "countryCode": "AT"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "saxx",
+        "url": "http://twitter.com/saxx"
+      },
+      {
+        "network": "Github",
+        "username": "saxx",
+        "url": "https://github.com/saxx"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ePunkt Internet Recruiting GmbH",
+      "position": "Head of Software Engineering",
+      "website": "http://epunkt.net",
+      "startDate": "2007-03-01",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Johannes Kepler Universtität, Linz",
+      "area": "Software Engineering",
+      "studyType": "Master",
+      "startDate": "2008",
+      "endDate": "2012"
+    },
+    {
+      "institution": "Fachhochschule Hagenberg",
+      "area": "Software Engineering for Business and Finance",
+      "studyType": "Master",
+      "startDate": "2003",
+      "endDate": "2006"
+    },	
+  ],
+  "skills": [
+    {
+      "name": "C# and .NET",
+      "level": "Master",
+      "keywords": [
+        "C#"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+	{
+      "language": "English",
+      "fluency": "Very fluent"
+    }
+  ]
+}
