@@ -3,7 +3,7 @@ version: 1.0.0.{build}
 # Install scripts. (runs after repo cloning)
 install:
   # Get the latest stable version of Node 0.STABLE.latest
-  - ps: Install-Product node $env:nodejs_version
+  # - ps: Install-Product node $env:nodejs_version
   # Typical npm stuff.
   - npm install
 
