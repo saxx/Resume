@@ -2,17 +2,12 @@ version: 1.0.0.{build}
 
 # Install scripts. (runs after repo cloning)
 install:
-  # Get the latest stable version of Node 0.STABLE.latest
-  # - ps: Install-Product node $env:nodejs_version
-  # Typical npm stuff.
   - npm install
 
-# Post-install test scripts.
+# Post-install scripts.
 test_script:
-  # Output useful info for debugging.
-  - node --version
-  - npm --version
   - node .\node_modules\resume-cli\index.js export index -f html
+  - node .\node_modules\resume-cli\index.js export resume -f pdf  
 
 # Don't actually build.
 build: off
@@ -20,4 +15,6 @@ build: off
 artifacts:
   - path: index.html
     name: Resume (HTML format)
+  - path: resume.pdf
+    name: Resume (PDF format)    
   
