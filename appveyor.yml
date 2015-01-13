@@ -12,7 +12,8 @@ test_script:
   # Output useful info for debugging.
   - node --version
   - npm --version
+  - node .\node_modules\resume-cli\index.js export index -f html
 
 # Don't actually build.
-build: 
-  - node .\node_modules\resume-cli\index.js export index -f html
+build: off
+  
