@@ -16,4 +16,8 @@ test_script:
 
 # Don't actually build.
 build: off
+
+artifacts:
+  - path: index.html
+    name: Resume (HTML format)
   
