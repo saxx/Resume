@@ -41,15 +41,15 @@
       "institution": "Johannes Kepler Universtität, Linz",
       "area": "Software Engineering",
       "studyType": "Master",
-      "startDate": "2008",
-      "endDate": "2012"
+      "startDate": "2008-10-01",
+      "endDate": "2012-06-30"
     },
     {
       "institution": "Fachhochschule Hagenberg",
       "area": "Software Engineering for Business and Finance",
       "studyType": "Master",
-      "startDate": "2003",
-      "endDate": "2006"
+      "startDate": "2003-10-01",
+      "endDate": "2006-06-30"
     }
   ],
   "skills": [
