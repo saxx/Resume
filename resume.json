@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://www.erecruiter.net/wp-content/uploads/2014/07/sachsenhofer_2-160x160.png",
     "email": "hannes@sachsenhofer.com",
-    "summary": "",
+    "summary": "I'm a software engineer with 10+ years experience in ASP.NET/C# and similar web development platforms",
     "location": {
       "city": "Linz",
       "countryCode": "AT"
@@ -18,7 +18,12 @@
       {
         "network": "Github",
         "username": "saxx",
-        "url": "https://github.com/saxx"
+        "url": "http://github.com/saxx"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "saxx",
+        "url": "http://stackoverflow.com/users/124924/saxx"
       }
     ]
   },
@@ -27,7 +32,44 @@
       "company": "ePunkt Internet Recruiting GmbH",
       "position": "Head of Software Engineering",
       "website": "http://epunkt.net",
-      "startDate": "2007-03-01",
+      "startDate": "2012-01-01",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "ePunkt Internet Recruiting GmbH",
+      "position": "Software Engineer",
+      "website": "http://epunkt.net",
+      "startDate": "2012-01-01",
+      "endDate": "2007-03-01",      
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Borland Entwicklung GmbH",
+      "position": "Quality Engineer",
+      "website": "http://borland.com",
+      "startDate": "2006-09-01",
+      "endDate": "2007-01-15",      
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "eworx Network & Internet GmbH",
+      "position": "Software Engineer",
+      "website": "http://eworx.at",
+      "startDate": "2005-08-01",
+      "endDate": "2006-05-31",      
       "summary": "",
       "highlights": [
         "",
@@ -47,6 +89,13 @@
     {
       "institution": "Fachhochschule Hagenberg",
       "area": "Software Engineering for Business and Finance",
+      "studyType": "Master",
+      "startDate": "2003-10-01",
+      "endDate": "2006-06-30"
+    },
+    {
+      "institution": "Bundeshandelsakademie Rohrbach",
+      "area": "Information Technology and Information Management",
       "studyType": "Master",
       "startDate": "2003-10-01",
       "endDate": "2006-06-30"
