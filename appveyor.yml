@@ -6,15 +6,16 @@ install:
 
 # Post-install scripts.
 test_script:
-  - node .\node_modules\resume-cli\index.js export index -f html --theme modern
-  - node .\node_modules\resume-cli\index.js export resume -f pdf --theme modern
+  - node .\node_modules\resume-cli\index.js export index -f html --theme elegant
+  - node .\node_modules\resume-cli\index.js export index-flat -f html --theme flat
+  - node .\node_modules\resume-cli\index.js export index-modern -f html --theme modern  
+  - node .\node_modules\resume-cli\index.js export resume -f pdf --theme elegant
+  - node .\node_modules\resume-cli\index.js export resume-flat -f pdf --theme flat
+  - node .\node_modules\resume-cli\index.js export resume-modern -f pdf --theme modern 
 
 # Don't actually build.
 build: off
 
 artifacts:
-  - path: index.html
-    name: Resume (HTML format)
-  - path: resume.pdf
-    name: Resume (PDF format)    
+  - path: *.*    
   
