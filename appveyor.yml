@@ -6,8 +6,8 @@ install:
 
 # Post-install scripts.
 test_script:
-  - node .\node_modules\resume-cli\index.js export index -f html
-  - node .\node_modules\resume-cli\index.js export resume -f pdf  
+  - node .\node_modules\resume-cli\index.js export index -f html --theme modern
+  - node .\node_modules\resume-cli\index.js export resume -f pdf --theme modern
 
 # Don't actually build.
 build: off
