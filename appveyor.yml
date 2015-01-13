@@ -1,2 +1,18 @@
 version: 1.0.0.{build}
 
+# Install scripts. (runs after repo cloning)
+install:
+	# Get the latest stable version of Node 0.STABLE.latest
+	- ps: Install-Product node $env:nodejs_version
+	# Typical npm stuff.
+	- npm install
+
+# Post-install test scripts.
+test_script:
+	# Output useful info for debugging.
+	- node --version
+	- npm --version
+
+# Don't actually build.
+build: 
+	- ps: node .\node_modules\resume-cli\index.js export index -f html
