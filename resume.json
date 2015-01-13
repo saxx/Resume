@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://www.erecruiter.net/wp-content/uploads/2014/07/sachsenhofer_2-160x160.png",
     "email": "hannes@sachsenhofer.com",
-    "summary": "I'm a software engineer with 10+ years experience in ASP.NET/C# and similar web development platforms",
+    "summary": "I'm a software engineer with 12+ years experience in ASP.NET/C# and similar web development platforms",
     "location": {
       "city": "Linz",
       "countryCode": "AT"
@@ -43,8 +43,8 @@
       "company": "ePunkt Internet Recruiting GmbH",
       "position": "Software Engineer",
       "website": "http://epunkt.net",
-      "startDate": "2012-01-01",
-      "endDate": "2007-03-01",      
+      "startDate": "2007-03-01",         
+      "endDate": "2012-01-01",
       "summary": "",
       "highlights": [
         "",
@@ -96,17 +96,124 @@
     {
       "institution": "Bundeshandelsakademie Rohrbach",
       "area": "Information Technology and Information Management",
-      "studyType": "Master",
-      "startDate": "2003-10-01",
-      "endDate": "2006-06-30"
+      "studyType": "Secondary school diploma",
+      "startDate": "1997-09-01",
+      "endDate": "2002-06-30"
     }
   ],
+  "volunteer": [{
+    "position": "Open source development",
+    "website": "http://github.com/saxx",
+    "summary": ""
+  },
+  {
+    "position": "Community work",
+    "website": "http://technologieplauscherl.at",
+    "summary": ""
+  },
+  {
+    "position": "Community work",
+    "website": "http://stackoverflow.com/users/124924/saxx",
+    "summary": ""
+  }],
   "skills": [
     {
-      "name": "C# and .NET",
+      "name": "12+ years experience using .NET 1.0 - .NET 4.5",
       "level": "Master",
       "keywords": [
-        "C#"
+        "C#",
+        "F#",
+        "VB.NET",
+        "ASP.NET",
+        "ASP.NET MVC",
+        "ASP.NET Web API",
+        "ASP.NET AJAX",
+        "WPF",
+        "XAML",
+        "Windows Forms",
+        "WCF",
+        "Modern UI/Universal Apps",
+        ".NET Compact Framework",
+        "Entity Framework",
+        "LINQ to SQL"
+      ]
+    },
+    {
+      "name": "15+ years experience in web development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "HTML5",
+        "CSS",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "Angular",
+        "SignalR",
+        "Modernizr"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "SQL Server",
+        "Oracle",
+        "Oracle Forms",
+        "MySQL",
+        "Sqlite",
+        "RavenDB",
+        "Postgres",
+        "SQL",
+        "PL-SQL",
+        "T-SQL"
+      ]
+    },
+    {
+      "name": "Test automation, continuous integration & deployment",
+      "level": "Master",
+      "keywords": [
+        "TeamCity",
+        "Silk Central",
+        "AppVeyor",
+        "NUnit",
+        "XUnit",
+        "Selenium",
+        "MSBuild"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Master",
+      "keywords": [
+        "Amazon Web Services (AWS)",
+        "Microsoft Azure",
+        "AppHarbor",
+        "NewRelic"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Intermediate",
+      "keywords": [
+        "Java",
+        "JSP/Servlets",
+        "C/C++",
+        "CORBA",
+        "COM",
+        "ActiveX",
+        "Windows Server Administration",
+        "UML",
+        "LaTeX",
+        "Subversion",
+        "Git",
+        "PowerShell",
+        "Confluence",
+        "JIRA",
+        "Stash",
+        "Trello",
+        "GitHub"
       ]
     }
   ],
@@ -117,7 +224,7 @@
     },
 	{
       "language": "English",
-      "fluency": "Very fluent"
+      "fluency": "Excellent fluency"
     }
   ]
 }
