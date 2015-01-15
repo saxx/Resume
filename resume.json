@@ -85,7 +85,8 @@
       "area": "Software Engineering",
       "studyType": "Master",
       "startDate": "2008-10-01",
-      "endDate": "2012-06-30"
+      "endDate": "2012-06-30",
+      "gpa": "Passed with distinction"
     },
     {
       "institution": "Fachhochschule Hagenberg",
@@ -99,60 +100,49 @@
       "area": "Information Technology and Information Management",
       "studyType": "Secondary school diploma",
       "startDate": "1997-09-01",
-      "endDate": "2002-06-30"
+      "endDate": "2002-06-30",
+      "gpa": "Passed with distinction"
     }
   ],
   "volunteer": [{
+    "organisation": "Various OSS projects"
     "position": "Open source development",
     "website": "http://github.com/saxx",
-    "summary": ""
+    "summary": "Active involvement in various open source projects. See my GitHub profile for details."
   },
-  {
+  { 
+    "organisation": "Technologieplauscherl",
     "position": "Community work",
     "website": "http://technologieplauscherl.at",
-    "summary": ""
+    "summary": "Regular speaker at the Technologieplauscherl user group in Linz."
   },
   {
+    "organisation": "Stack Overflow",  	
     "position": "Community work",
     "website": "http://stackoverflow.com/users/124924/saxx",
-    "summary": ""
+    "summary": "Participation in the most important software engineering Q&A site."
   }],
   "skills": [
     {
       "name": "12+ years experience using .NET 1.0 - .NET 4.5",
       "level": "Master",
       "keywords": [
-        "C#",
-        "F#",
-        "VB.NET",
-        "ASP.NET",
-        "ASP.NET MVC",
-        "ASP.NET Web API",
-        "ASP.NET AJAX",
-        "WPF",
-        "XAML",
+        "C#, F#, VB.NET",
+        "ASP.NET, ASP.NET MVC, ASP.NET Web API, ASP.NET Ajax",
+        "WPF, XAML",
         "Windows Forms",
         "WCF",
-        "Modern UI/Universal Apps",
-        ".NET Compact Framework",
-        "Entity Framework",
-        "LINQ to SQL"
+        "Entity Framework"
       ]
     },
     {
       "name": "15+ years experience in web development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "HTML5",
-        "CSS",
-        "CSS3",
+        "HTML / HTML5",
+        "CSS / CSS3",
         "JavaScript",
-        "jQuery",
-        "Bootstrap",
-        "Angular",
-        "SignalR",
-        "Modernizr"
+        "Common JavaScript frameworks, ie. jQuery, Bootstrap, Angular, SignalR, Modernizr, ..."
       ]
     },
     {
@@ -161,14 +151,11 @@
       "keywords": [
         "SQL Server",
         "Oracle",
-        "Oracle Forms",
         "MySQL",
         "Sqlite",
         "RavenDB",
         "Postgres",
-        "SQL",
-        "PL-SQL",
-        "T-SQL"
+        "SQL (PL-SQL, T-SQL"
       ]
     },
     {
@@ -178,8 +165,7 @@
         "TeamCity",
         "Silk Central",
         "AppVeyor",
-        "NUnit",
-        "XUnit",
+        "NUnit, XUnit",
         "Selenium",
         "MSBuild"
       ]
@@ -198,21 +184,15 @@
       "name": "Other",
       "level": "Intermediate",
       "keywords": [
-        "Java",
-        "JSP/Servlets",
-        "C/C++",
-        "CORBA",
-        "COM",
+        "Java, JSP/Servlets",
+        "C/C++, CORBA, COM",
         "ActiveX",
         "Windows Server Administration",
         "UML",
         "LaTeX",
-        "Subversion",
-        "Git",
+        "Git, Subversion",
         "PowerShell",
-        "Confluence",
-        "JIRA",
-        "Stash",
+        "Confluence, JIRA, Stash",
         "Trello",
         "GitHub"
       ]
