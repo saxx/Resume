@@ -105,7 +105,7 @@
     }
   ],
   "volunteer": [{
-    "organisation": "Various OSS projects"
+    "organisation": "Various OSS projects",
     "position": "Open source development",
     "website": "http://github.com/saxx",
     "summary": "Active involvement in various open source projects. See my GitHub profile for details."
