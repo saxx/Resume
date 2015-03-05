@@ -2,9 +2,9 @@
   "basics": {
     "name": "Hannes Sachsenhofer",
     "label": "Software Engineer",
-    "picture": "https://www.erecruiter.net/wp-content/uploads/2014/07/sachsenhofer_2-160x160.png",
+    "picture": "https://avatars2.githubusercontent.com/u/1190606",
     "email": "hannes@sachsenhofer.com",
-    "summary": "I'm a software engineer with 12+ years experience in ASP.NET/C# and similar web development platforms",
+    "summary": "I'm a software engineer with 13+ years of experience using the .NET platform (C#), especially ASP.NET, and 17+ years of experience in web development in general.",
     "location": {
       "city": "Linz",
       "region": "Upper Austria",
@@ -32,24 +32,26 @@
     {
       "company": "ePunkt Internet Recruiting GmbH",
       "position": "Head of Software Engineering",
-      "website": "http://epunkt.net",
+      "website": "http://erecruiter.net",
       "startDate": "2012-01-01",
-      "summary": "",
+      "endDate": "2015-06-30",      
+      "summary": "In addition to my existing responsibilities as Software Engineer I was the head of the Development and Operations team.",
       "highlights": [
-        "",
-        ""
+        "Kanban-style development process and team management.",
+        "Strategic product development and prioritization."
       ]
     },
     {
       "company": "ePunkt Internet Recruiting GmbH",
-      "position": "Software Engineer",
-      "website": "http://epunkt.net",
+      "position": "Senior Software Engineer",
+      "website": "http://erecruiter.net",
       "startDate": "2007-03-01",         
       "endDate": "2012-01-01",
-      "summary": "",
+      "summary": "Design, implementation and operation of 'eRecruiter', a web-based recruiting and applicant management software.",
       "highlights": [
-        "",
-        ""
+      	"I was hired as the first developer to morph an internally used Windows tool for recruiting into a cloud-based SaaS product. Over time, it grew into a successful software product that is in use internationally at many well-known public- and private-sector corporations.",
+      	"I was responsible for the entire software development lifecycle, from the initial design and specification, to implementation and testing, to operations and monitoring.",
+        "Technologies used: ASP.NET (C#), SQL Server (LINQ to SQL, Entity Framework), JavaScript (jQuery), Windows Server, ..."
       ]
     },
     {
@@ -58,11 +60,9 @@
       "website": "http://borland.com",
       "startDate": "2006-09-01",
       "endDate": "2007-01-15",      
-      "summary": "",
+      "summary": "Function- and performance-testing of various Windows- and web-based software of the Silk product family (automatic as well as manual tests).",
       "highlights": [
-        "",
-        "",
-        ""
+        "Technologies used: Silk Performer, Silk Test Manager, SQL Server, Oracle, ..."
       ]
     },
     {
@@ -71,11 +71,9 @@
       "website": "http://eworx.at",
       "startDate": "2005-08-01",
       "endDate": "2006-05-31",      
-      "summary": "",
+      "summary": "Largely independent design and implementation of a new framework that served as foundation for various products, ie. CMS or e-mail marketing software.",
       "highlights": [
-        "",
-        "",
-        ""
+        "Technologies used: ASP.NET (C#), SQL Server (ADO.NET), JavaScript, ..."
       ]
     }
   ],
@@ -83,7 +81,7 @@
     {
       "institution": "Johannes Kepler Universtität, Linz",
       "area": "Software Engineering",
-      "studyType": "Master",
+      "studyType": "Master / DI",
       "startDate": "2008-10-01",
       "endDate": "2012-06-30",
       "gpa": "Passed with distinction"
@@ -91,7 +89,7 @@
     {
       "institution": "Fachhochschule Hagenberg",
       "area": "Software Engineering for Business and Finance",
-      "studyType": "Master",
+      "studyType": "Master / DI (FH)",
       "startDate": "2003-10-01",
       "endDate": "2006-06-30"
     },
@@ -108,13 +106,19 @@
     "organisation": "Various OSS projects",
     "position": "Open source development",
     "website": "http://github.com/saxx",
-    "summary": "Active involvement in various open source projects. See my GitHub profile for details."
+    "summary": "Active involvement in various open source projects. Please see my GitHub profile for details.",
+    "highlights": [
+    	"ComicSyndicate: A RSS syndication service for web comics (http://comicsyndicate.org).",
+    	"Erbsenzähler: A house-hold budgeting tool to track income and expenses (http://erbsenzaehler.azurewebsites.net).",
+    	"WuzlStats: A tool to keep track of our company tabletop football score."
+    	"Participation in a few widely-used OSS libraries, ie. Trello.NET or mite.NET."
+    ]    
   },
   { 
     "organisation": "Technologieplauscherl",
     "position": "Community work",
     "website": "http://technologieplauscherl.at",
-    "summary": "Regular speaker at the Technologieplauscherl user group in Linz."
+    "summary": "Regular speaker at the Technologieplauscherl user group in Linz, Austria."
   },
   {
     "organisation": "Stack Overflow",  	
@@ -124,7 +128,7 @@
   }],
   "skills": [
     {
-      "name": "12+ years experience using .NET 1.0 - .NET 4.5",
+      "name": "13+ years experience using .NET 1.0 - .NET 4.5",
       "level": "Master",
       "keywords": [
         "C#, F#, VB.NET",
@@ -136,7 +140,7 @@
       ]
     },
     {
-      "name": "15+ years experience in web development",
+      "name": "17+ years experience in web development",
       "level": "Master",
       "keywords": [
         "HTML / HTML5",
@@ -155,7 +159,7 @@
         "Sqlite",
         "RavenDB",
         "Postgres",
-        "SQL (PL-SQL, T-SQL"
+        "SQL (PL-SQL, T-SQL)"
       ]
     },
     {
