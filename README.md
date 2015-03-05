@@ -1,6 +1,6 @@
 # For recruiters
 
-This is my curriculum vitae. It is based on a common, machine-readable data format named JSON and is automatically rendered to PDF and a website on every update of this data. You can take a look at the result on https://ci.appveyor.com/project/saxx/resume/build/artifacts.
+This is my curriculum vitae. It is based on a common, machine-readable data format named JSON and is automatically rendered to PDF and a website on every update of this data. You can download the result from [GitHub](https://github.com/saxx/Resume/releases).
 
 Contact me with interesting offers for a more detailled résumé  if this seems useful to you or your client. 
 
