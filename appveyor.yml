@@ -28,5 +28,16 @@ artifacts:
   - path: resume-flat.pdf
     name: Résumé  of Hannes Sachsenhofer (flat theme)
   - path: resume-modern.pdf
-    name: Résumé  of Hannes Sachsenhofer (modern theme)        
+    name: Résumé  of Hannes Sachsenhofer (modern theme)
+    
+deploy:
+  release: myproduct-v$(appveyor_build_version)
+  provider: GitHub
+  auth_token:
+    secure: /ix/M1BB3mfWKuVd3Z/t6VsLBJM8w6ijyeFaC/fMV/I7qBlAtMwXaLzAIQEnViP7
+  artifact: *.html
+  draft: false
+  prerelease: false
+  on:
+    branch: master                 # release from master branch only
   
