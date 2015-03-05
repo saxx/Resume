@@ -30,12 +30,13 @@ artifacts:
   - path: resume-modern.pdf
     name: Résumé  of Hannes Sachsenhofer (modern theme)
     
+# Deploy all artifacts to GitHub Releases
 deploy:
-  release: myproduct-v$(appveyor_build_version)
+  release: Hannes_Sachsenhofer_Resume-v$(appveyor_build_version)
   provider: GitHub
   auth_token:
     secure: /ix/M1BB3mfWKuVd3Z/t6VsLBJM8w6ijyeFaC/fMV/I7qBlAtMwXaLzAIQEnViP7
-  artifact: /.*\.html/
+  # artifact: /.*\.html/ # left out, because all artifacts should be deployed
   draft: false
   prerelease: false
   on:
