@@ -110,7 +110,7 @@
     "highlights": [
     	"ComicSyndicate: A RSS syndication service for web comics (http://comicsyndicate.org).",
     	"Erbsenzähler: A house-hold budgeting tool to track income and expenses (http://erbsenzaehler.azurewebsites.net).",
-    	"WuzlStats: A tool to keep track of our company tabletop football score."
+    	"WuzlStats: A tool to keep track of our company tabletop football score.",
     	"Participation in a few widely-used OSS libraries, ie. Trello.NET or mite.NET."
     ]    
   },
