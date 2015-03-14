@@ -90,7 +90,7 @@
       "institution": "Fachhochschule Hagenberg",
       "area": "Software Engineering for Business and Finance",
       "studyType": "Master / DI (FH)",
-      "startDate": "2003-10-01",
+      "startDate": "2002-10-01",
       "endDate": "2006-06-30"
     },
     {
@@ -103,7 +103,7 @@
     }
   ],
   "volunteer": [{
-    "organisation": "Various OSS projects",
+    "organization": "Various OSS projects",
     "position": "Open source development",
     "website": "http://github.com/saxx",
     "summary": "Active involvement in various open source projects. Please see my GitHub profile for details.",
@@ -115,13 +115,13 @@
     ]    
   },
   { 
-    "organisation": "Technologieplauscherl",
+    "organization": "Technologieplauscherl",
     "position": "Community work",
     "website": "http://technologieplauscherl.at",
     "summary": "Regular speaker at the Technologieplauscherl user group in Linz, Austria."
   },
   {
-    "organisation": "Stack Overflow",  	
+    "organization": "Stack Overflow",  	
     "position": "Community work",
     "website": "http://stackoverflow.com/users/124924/saxx",
     "summary": "Participation in the most important software engineering Q&A site."
